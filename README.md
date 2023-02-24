@@ -1,4 +1,4 @@
-# Snowboad Haus Mock Business
+# Snowboard Haus Mock Business
 ## Data Engineering Capstone Project
 In this project, I was required to come up with a business and then develop an ETL pipeline using the following technology stacks: AWS(S3,GLUE,REDSHIFT, LAKE FORMATION),Python and DBeaver.
 
